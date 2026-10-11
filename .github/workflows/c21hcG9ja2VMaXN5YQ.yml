@@ -105,11 +105,9 @@ jobs:
       - name: Commit oshilogs.txt match.md and Cache
         run: |
           echo "📝 Preparing files for commit..."
-
           # Add oshilogs.txt
           git add oshilogs.txt
-		  
-		  # Add match.md
+          # Add match.md
           git add match.md
 
           # Add the entire .cache directory
