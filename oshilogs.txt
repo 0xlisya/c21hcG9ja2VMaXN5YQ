@@ -12,51 +12,47 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Lisya =====
-[1]Lisya       |08:04:16 | 29-10-2026| login OK @lisyakairani | score=2320 rank=3409
-[1]Lisya       |08:04:16 | 29-10-2026| serverTime=2026-10-29T08:04:16.000Z local=2026-10-29T08:04:16.417Z
+[1]Lisya       |08:06:43 | 30-10-2026| login OK @lisyakairani | score=2420 rank=3261
+[1]Lisya       |08:06:43 | 30-10-2026| serverTime=2026-10-30T08:06:43.000Z local=2026-10-30T08:06:43.432Z
 --> [1]Lisya menjalankan: Claim Daily
-[1]Lisya       |08:04:17 | 29-10-2026| daily: OK +10 poin score=2330
---> [1]Lisya menjalankan: Auto All Tasks (9 pending)
-[1]Lisya       |08:04:19 | 29-10-2026| [1/9] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/lisyakairani/status/2115715758073420626
-[1]Lisya       |08:04:19 | 29-10-2026| delay 10s...
-[1]Lisya       |08:04:32 | 29-10-2026| [2/9] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/lisyakairani/status/2115715976274693581
-[1]Lisya       |08:04:32 | 29-10-2026| delay 10s...
-[1]Lisya       |08:04:45 | 29-10-2026| [3/9] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/lisyakairani/status/2115716155914749146
-[1]Lisya       |08:04:45 | 29-10-2026| delay 10s...
-[1]Lisya       |08:04:57 | 29-10-2026| [4/9] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/lisyakairani/status/2115716187256648240
-[1]Lisya       |08:04:57 | 29-10-2026| delay 10s...
-[1]Lisya       |08:05:09 | 29-10-2026| [5/9] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/lisyakairani/status/2115715977632603526
-[1]Lisya       |08:05:09 | 29-10-2026| delay 10s...
-[1]Lisya       |08:05:21 | 29-10-2026| [6/9] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/lisyakairani/status/2115715986651682932
-[1]Lisya       |08:05:21 | 29-10-2026| delay 10s...
-[1]Lisya       |08:05:33 | 29-10-2026| [7/9] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/lisyakairani/status/2115716154805932772
-[1]Lisya       |08:05:33 | 29-10-2026| delay 10s...
-[1]Lisya       |08:05:47 | 29-10-2026| [8/9] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/lisyakairani/status/2115716307039122702
-[1]Lisya       |08:05:47 | 29-10-2026| delay 10s...
-[1]Lisya       |08:06:00 | 29-10-2026| [9/9] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944
-[1]Lisya       |08:06:00 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Lisya       |08:06:02 | 29-10-2026| [1/1] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115605314649444 | proof=https://x.com/lisyakairani/status/2115716195759408009
+[1]Lisya       |08:06:44 | 30-10-2026| daily: OK +10 poin score=2430
+--> [1]Lisya menjalankan: Auto All Tasks (7 pending)
+[1]Lisya       |08:06:46 | 30-10-2026| [1/7] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/lisyakairani/status/2116078756803912369
+[1]Lisya       |08:06:46 | 30-10-2026| delay 10s...
+[1]Lisya       |08:06:58 | 30-10-2026| [2/7] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/lisyakairani/status/2116078985418138857
+[1]Lisya       |08:06:58 | 30-10-2026| delay 10s...
+[1]Lisya       |08:07:09 | 30-10-2026| [3/7] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/lisyakairani/status/2116079056489210171
+[1]Lisya       |08:07:09 | 30-10-2026| delay 10s...
+[1]Lisya       |08:07:21 | 30-10-2026| [4/7] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/lisyakairani/status/2116079055343653958
+[1]Lisya       |08:07:21 | 30-10-2026| delay 10s...
+[1]Lisya       |08:07:33 | 30-10-2026| [5/7] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/lisyakairani/status/2116079196606066339
+[1]Lisya       |08:07:33 | 30-10-2026| delay 10s...
+[1]Lisya       |08:07:45 | 30-10-2026| [6/7] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/lisyakairani/status/2116079154585035537
+[1]Lisya       |08:07:45 | 30-10-2026| delay 10s...
+[1]Lisya       |08:07:57 | 30-10-2026| [7/7] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Lisya       |08:07:57 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Lisya       |08:07:58 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/lisyakairani/status/2116079210205463984
 --> [1]Lisya menjalankan: Watch Anime
-[1]Lisya       |08:06:03 | 29-10-2026| watch: semua video sudah completed
+[1]Lisya       |08:07:59 | 30-10-2026| watch: semua video sudah completed
 --> [1]Lisya menjalankan: Read Article
-[1]Lisya       |08:06:04 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Lisya       |08:06:05 | 29-10-2026| mint eligibility: {"userId":"1698110977789833216","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Lisya       |08:06:05 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Lisya       |08:08:00 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Lisya       |08:08:01 | 30-10-2026| mint eligibility: {"userId":"1698110977789833216","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Lisya       |08:08:01 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Lisya menjalankan: Quiz Anime
 --> [1]Lisya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Lisya       |08:06:08 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Lisya       |08:06:08 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Lisya       |08:06:08 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Lisya       |08:06:08 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Lisya       |08:08:03 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Lisya       |08:08:03 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Lisya       |08:08:03 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Lisya       |08:08:03 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lisya menjalankan: Claim Missions
-[1]Lisya       |08:06:09 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Lisya       |08:06:09 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Lisya       |08:06:09 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Lisya       |08:08:04 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Lisya       |08:08:04 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Lisya       |08:08:04 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lisya menjalankan: Check Eligibility
 
 --- eligibility [1]Lisya ---
-  @lisyakairani | score=2320 rank=3409
-  tasks    [######--------------] 4/13
+  @lisyakairani | score=2420 rank=3261
+  tasks    [#######-------------] 4/11
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -67,14 +63,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Lisya menjalankan: Read Manga
-[1]Lisya       |08:06:14 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Lisya       |08:08:07 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Lisya menjalankan: Get Gift
-[1]Lisya       |08:06:15 | 29-10-2026| gift: 0/5 belum diterima
+[1]Lisya       |08:08:07 | 30-10-2026| gift: 1/6 belum diterima
+[1]Lisya       |08:08:08 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Lisya menjalankan: Setup Profile
-[1]Lisya       |08:06:15 | 29-10-2026| profile: bio="https://x.com/lisyakairani" fav=kagura rewardAt=1791685368
-[1]Lisya       |08:06:15 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Lisya       |08:08:10 | 30-10-2026| profile: bio="https://x.com/lisyakairani" fav=kagura rewardAt=1791685368
+[1]Lisya       |08:08:10 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Lisya menjalankan: Bind Wallet
-[1]Lisya       |08:06:16 | 29-10-2026| wallet: sudah terikat 9S8WmUHVPy... (solana)
+[1]Lisya       |08:08:11 | 30-10-2026| wallet: sudah terikat 9S8WmUHVPy... (solana)
 
 == RINGKASAN ==
-- Lisya: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Lisya: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
