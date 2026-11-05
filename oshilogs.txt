@@ -12,37 +12,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Lisya =====
-[1]Lisya       |08:40:16 | 04-11-2026| login OK @lisyakairani | score=2790 rank=2770
-[1]Lisya       |08:40:16 | 04-11-2026| serverTime=2026-11-04T08:40:16.000Z local=2026-11-04T08:40:16.368Z
+[1]Lisya       |08:59:54 | 05-11-2026| login OK @lisyakairani | score=2820 rank=2769
+[1]Lisya       |08:59:54 | 05-11-2026| serverTime=2026-11-05T08:59:54.000Z local=2026-11-05T08:59:54.445Z
 --> [1]Lisya menjalankan: Claim Daily
-[1]Lisya       |08:40:17 | 04-11-2026| daily: OK +10 poin score=2800
---> [1]Lisya menjalankan: Auto All Tasks (2 pending)
-[1]Lisya       |08:40:19 | 04-11-2026| [1/2] ba012859 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211757419682197 | proof=https://x.com/lisyakairani/status/2117899132831420166
-[1]Lisya       |08:40:19 | 04-11-2026| delay 10s...
-[1]Lisya       |08:40:32 | 04-11-2026| [2/2] 6608dad0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211757419682197 | proof=https://x.com/lisyakairani/status/2117899472427572938
-[1]Lisya       |08:40:32 | 04-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Lisya       |08:40:33 | 04-11-2026| [1/1] ba012859 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117574196821975 | proof=https://x.com/lisyakairani/status/2117899410179522215
+[1]Lisya       |08:59:55 | 05-11-2026| daily: OK +10 poin score=2830
+--> [1]Lisya menjalankan: Auto All Tasks (3 pending)
+[1]Lisya       |08:59:56 | 05-11-2026| [1/3] 5ff4a15b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/lisyakairani/status/2118266429780623953
+[1]Lisya       |08:59:56 | 05-11-2026| delay 10s...
+[1]Lisya       |09:00:09 | 05-11-2026| [2/3] 71a6b26f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/lisyakairani/status/2118266704257797500
+[1]Lisya       |09:00:09 | 05-11-2026| delay 10s...
+[1]Lisya       |09:00:21 | 05-11-2026| [3/3] fefe8b6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/lisyakairani/status/2118266679510266983
+[1]Lisya       |09:00:21 | 05-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Lisya       |09:00:23 | 05-11-2026| [1/1] 5ff4a15b (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118160028058399 | proof=https://x.com/lisyakairani/status/2118266715868817741
 --> [1]Lisya menjalankan: Watch Anime
-[1]Lisya       |08:40:34 | 04-11-2026| watch: semua video sudah completed
+[1]Lisya       |09:00:23 | 05-11-2026| watch: semua video sudah completed
 --> [1]Lisya menjalankan: Read Article
-[1]Lisya       |08:40:35 | 04-11-2026| news: 34/34 artikel selesai dibaca
-[1]Lisya       |08:40:36 | 04-11-2026| mint eligibility: {"userId":"1698110977789833216","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Lisya       |08:40:36 | 04-11-2026| news: semua artikel sudah dibaca
+[1]Lisya       |09:00:25 | 05-11-2026| news: 34/34 artikel selesai dibaca
+[1]Lisya       |09:00:25 | 05-11-2026| mint eligibility: {"userId":"1698110977789833216","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Lisya       |09:00:25 | 05-11-2026| news: semua artikel sudah dibaca
 --> [1]Lisya menjalankan: Quiz Anime
 --> [1]Lisya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Lisya       |08:40:38 | 04-11-2026| music: kedua misi sudah tercapai, stop
-[1]Lisya       |08:40:39 | 04-11-2026| mission music-listens-10: sudah diklaim
-[1]Lisya       |08:40:39 | 04-11-2026| mission music-minutes-30: sudah diklaim
-[1]Lisya       |08:40:39 | 04-11-2026| mission anime-completed-3: sudah diklaim
+[1]Lisya       |09:00:28 | 05-11-2026| music: kedua misi sudah tercapai, stop
+[1]Lisya       |09:00:28 | 05-11-2026| mission music-listens-10: sudah diklaim
+[1]Lisya       |09:00:28 | 05-11-2026| mission music-minutes-30: sudah diklaim
+[1]Lisya       |09:00:28 | 05-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lisya menjalankan: Claim Missions
-[1]Lisya       |08:40:39 | 04-11-2026| mission music-listens-10: sudah diklaim
-[1]Lisya       |08:40:39 | 04-11-2026| mission music-minutes-30: sudah diklaim
-[1]Lisya       |08:40:39 | 04-11-2026| mission anime-completed-3: sudah diklaim
+[1]Lisya       |09:00:29 | 05-11-2026| mission music-listens-10: sudah diklaim
+[1]Lisya       |09:00:29 | 05-11-2026| mission music-minutes-30: sudah diklaim
+[1]Lisya       |09:00:29 | 05-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lisya menjalankan: Check Eligibility
 
 --- eligibility [1]Lisya ---
-  @lisyakairani | score=2790 rank=2770
-  tasks    [##########----------] 2/4
+  @lisyakairani | score=2820 rank=2769
+  tasks    [#####---------------] 1/4
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -53,17 +55,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Lisya menjalankan: Read Manga
-[1]Lisya       |08:40:43 | 04-11-2026| manga: 0/13 chapter belum completed
+[1]Lisya       |09:00:33 | 05-11-2026| manga: 0/13 chapter belum completed
 --> [1]Lisya menjalankan: Get Gift
-[1]Lisya       |08:40:45 | 04-11-2026| gift: 3/9 belum diterima
-[1]Lisya       |08:40:46 | 04-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Lisya       |08:40:49 | 04-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Lisya       |08:40:52 | 04-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Lisya       |09:00:34 | 05-11-2026| gift: 3/9 belum diterima
+[1]Lisya       |09:00:35 | 05-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Lisya       |09:00:37 | 05-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Lisya       |09:00:40 | 05-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Lisya menjalankan: Setup Profile
-[1]Lisya       |08:40:54 | 04-11-2026| profile: bio="https://x.com/lisyakairani" fav=kagura rewardAt=1791685368
-[1]Lisya       |08:40:54 | 04-11-2026| profile: bonus sudah diklaim, skip
+[1]Lisya       |09:00:43 | 05-11-2026| profile: bio="https://x.com/lisyakairani" fav=kagura rewardAt=1791685368
+[1]Lisya       |09:00:43 | 05-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Lisya menjalankan: Bind Wallet
-[1]Lisya       |08:40:55 | 04-11-2026| wallet: sudah terikat 9S8WmUHVPy... (solana)
+[1]Lisya       |09:00:43 | 05-11-2026| wallet: sudah terikat 9S8WmUHVPy... (solana)
 
 == RINGKASAN ==
-- Lisya: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Lisya: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
